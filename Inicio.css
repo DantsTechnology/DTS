@@ -30,9 +30,9 @@ header{
    height: 740px;
    background: #000000;  
    /* fallback for old browsers */
-   background: url(../img/Logo/Logo\ de\ Portada\ 2.0.jpg); 
+   background: url(./img/Logo/Logo\ de\ Portada\ 2.0.jpg); 
    /* Chrome 10-25, Safari 5.1-6 */
-   background: url(../img/Logo/Logo\ de\ Portada\ 2.0.jpg); 
+   background: url(./img/Logo/Logo\ de\ Portada\ 2.0.jpg); 
    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
    background-size: 100%;
    background-attachment: fixed;
